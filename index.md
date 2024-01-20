@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a senior undergraduate majoring in computer sciences and applied mathematics at University of Wisconsin-Madison. My interest lies in the intersection of computer systems and machine learning. It is my great fortune to work with Prof. Shivaram Venkataraman on facilitating the use of graph neural networks through system design (Marius) and Prof. Claudia Solis-Lemus on employing deep neural networks on protein sequences at Wisconsin Institute for Discovery.
 
 ## Research Interests
 
