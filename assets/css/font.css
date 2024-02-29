@@ -13,9 +13,9 @@ body {
 blockquote {
   background-color: #fff;
   padding:0px;
-  font: 12.0px/1.5 Crimson Pro, serif; 
+  font: 8.0px/1.5 Crimson Pro, serif; 
   color:#595959;
-  font-weight:200;
+  font-weight:150;
   margin:0;
-  line-height: 1.2;
+  line-height: 1.6;
 }
