@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a senior undergraduate majoring in computer sciences and applied mathematics at [University of Wisconsin-Madison](https://www.wisc.edu/). My interest lies in the intersection of **computer systems** and **machine learning**. It is my great fortune to work with [Prof. Shivaram Venkataraman](https://shivaram.org/) and [Jason Mohoney](http://jasonmohoney.com/) on large-scale vector database system (Leviathan) and [Prof. Claudia Solis-Lemus](https://solislemuslab.github.io//pages/people.html) on employing deep neural networks on biological sequences at [Wisconsin Institute for Discovery](https://wid.wisc.edu/).
+I am a senior undergraduate majoring in computer sciences and mathematics at [University of Wisconsin-Madison](https://www.wisc.edu/). My interest lies in the intersection of **computer systems** and **machine learning**. It is my great fortune to work with [Prof. Shivaram Venkataraman](https://shivaram.org/) and [Jason Mohoney](http://jasonmohoney.com/) on designing large-scale vector database system. I also work with [Prof. Claudia Solis-Lemus](https://solislemuslab.github.io//pages/people.html) on employing deep neural networks on biological sequences at [Wisconsin Institute for Discovery](https://wid.wisc.edu/).
+
+I'm acvtively applying for Ph.D. positions starting in Fall 2025!
 
 <!-- ## Research Interests
 
