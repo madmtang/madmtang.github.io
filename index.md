@@ -15,6 +15,7 @@ I'm acvtively applying for Ph.D. positions starting in Fall 2025!
 
 ## News
 
+- **[Apr. 2024]** I'm awarded the Hilldale Undergraduate Research Fellowship!
 - **[Jan. 2024]** I joined Prof. Shivaram's group!
 
 <!-- {% include_relative _includes/publications.md %}
