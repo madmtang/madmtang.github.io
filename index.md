@@ -15,6 +15,7 @@ I am a senior undergraduate majoring in computer sciences and mathematics at <a 
 
 ## News
 
+- **[Jul. 2024]** I started working with <a href="https://junchengyang.com/" target="_blank">Juncheng</a>.
 - **[Apr. 2024]** I'm awarded the <a href="https://awards.advising.wisc.edu/all-scholarships/hilldale-undergraduatefaculty-research-fellowship/" target="_blank">Hilldale Undergraduate Research Fellowship</a>!
 - **[Jan. 2024]** I joined <a href="https://shivaram.org/" target="_blank">Prof. Shivaram</a>'s group!
 
