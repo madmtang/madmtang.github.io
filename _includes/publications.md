@@ -3,7 +3,9 @@
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+Coming soon...
+
+<!-- {% for link in site.data.publications.main %}
 
 <li>
 <div class="pub-row">
@@ -46,7 +48,7 @@
 
 <br>
 
-{% endfor %}
+{% endfor %} -->
 
 </ol>
 </div>
