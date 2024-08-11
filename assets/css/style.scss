@@ -2,3 +2,15 @@
 ---
 
 @import "minimal-light";
+
+::-moz-selection {
+    color: #fff;
+    text-shadow: none;
+    background-color: #39c;
+}
+
+::selection {
+    color: #fff;
+    text-shadow: none;
+    background-color: #39c;
+}
