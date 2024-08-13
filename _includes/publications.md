@@ -1,11 +1,11 @@
-<!-- <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2> -->
-## Publication
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+
+Coming soon...
 
 <div class="publications">
 <ol class="bibliography">
-Coming soon...
 
-<!-- {% for link in site.data.publications.main %}
+{% for link in site.data.publications.main %}
 
 <li>
 <div class="pub-row">
@@ -48,7 +48,7 @@ Coming soon...
 
 <br>
 
-{% endfor %} -->
+{% endfor %}
 
 </ol>
 </div>
