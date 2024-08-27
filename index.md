@@ -23,4 +23,6 @@ I am a senior undergraduate majoring in computer sciences and mathematics at <a 
 
 <!-- {% include_relative _includes/services.md %} -->
 
-## Academic Activities
+## Miscellanies
+
+- I watch and play football (soccer if you insist) and I'm a fan of the GOAT <a href="https://www.youtube.com/watch?v=mDsztJOgqUg" target="_blank">Lionel Messi</a>.
