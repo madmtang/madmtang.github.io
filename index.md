@@ -22,3 +22,5 @@ I am a senior undergraduate majoring in computer sciences and mathematics at <a 
 {% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
+
+## Academic Activities
