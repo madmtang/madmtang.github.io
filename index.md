@@ -26,5 +26,5 @@ I am a senior undergraduate majoring in computer sciences and mathematics at <a 
 ## Miscellanies
 
 - I watch and play football (soccer if you insist) and I'm a fan of the GOAT <a href="https://www.youtube.com/watch?v=mDsztJOgqUg" target="_blank">Lionel Messi</a>.
-- I love reading and collecting quotes. Here's one of my recent favorites: 
-  > "Learn the rules like a pro, so you can break them like an artist." - Pablo Picasso
+- I love reading and collecting quotes. Here's one of my recent favorites:
+  - *"Learn the rules like a pro, so you can break them like an artist."* - Pablo Picasso
