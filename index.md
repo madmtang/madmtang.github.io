@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a senior undergraduate majoring in computer sciences and mathematics at <a href="https://www.wisc.edu/" target="_blank">University of Wisconsin-Madison</a>. My research interest lies in the intersection of **computer systems** and **machine learning**. It is my great fortune to be working with <a href="https://shivaram.org/" target="_blank">Prof. Shivaram Venkataraman</a> and <a href="https://junchengyang.com/" target="_blank">Prof. Juncheng Yang</a>. Feel free to reach out for anything you'd like to talk!
+I am a senior undergraduate majoring in computer sciences and mathematics at <a href="https://www.wisc.edu/" target="_blank">University of Wisconsin-Madison</a>. My research interests lie at the intersection of **computer systems** and **machine learning**, where I aim to develop next-generation, machine learning-driven systems that enhance computational efficiency. It is my great fortune to be working with <a href="https://shivaram.org/" target="_blank">Prof. Shivaram Venkataraman</a> and <a href="https://junchengyang.com/" target="_blank">Prof. Juncheng Yang</a>. Feel free to reach out for anything you'd like to talk!
 
 *I'm acvtively applying for Ph.D. positions starting in Fall 2025!* 
 
