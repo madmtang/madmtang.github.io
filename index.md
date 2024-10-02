@@ -26,4 +26,5 @@ I am a senior undergraduate majoring in computer sciences and mathematics at <a 
 ## Miscellanies
 
 - I watch and play football (soccer if you insist) and I'm a fan of the GOAT <a href="https://www.youtube.com/watch?v=mDsztJOgqUg" target="_blank">Lionel Messi</a>.
-- I love reading and collecting quotations. Here's one of my recent favorites: *“I hate quotations. Just tell me what you know!”* - Ralph Waldo Emerson
+- I love reading and collecting quotations. Here's one of my favorites: *“I hate quotations. Just tell me what you know!”* - <a href="https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson" target="_blank">Ralph Waldo Emerson</a>
+- I generally walk pretty slow, and I applaud <a href="http://slow-science.org/" target="_blank">slow science</a>.
