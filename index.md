@@ -28,3 +28,4 @@ I am a senior undergraduate majoring in computer sciences and mathematics at <a 
 - I watch and play football (soccer if you insist) and I'm a fan of the GOAT <a href="https://www.youtube.com/watch?v=mDsztJOgqUg" target="_blank">Lionel Messi</a>.
 - I love reading and collecting quotations. Here's one of my favorites: *“I hate quotations. Just tell me what you know!”* - <a href="https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson" target="_blank">Ralph Waldo Emerson</a>
 - I generally read, think, and talk pretty slow, and I applaud <a href="http://slow-science.org/" target="_blank">slow science</a>. I walk slow too, but I would rather walk far than fast.
+<!-- - Here are some of my <a href="https://mengze.gitbook.io/paper-notes" target="_blank">paper reading notes</a>, which I hope to keep updating. -->
